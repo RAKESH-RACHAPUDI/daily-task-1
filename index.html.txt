@@ -1,2 +1,6 @@
 practising on git pull
+<<<<<<< HEAD
 iam currently working on git
+=======
+iam currently checking on git merging 
+>>>>>>> 732d292aa0eb219f19218b04718f3a7fdedffa4c
